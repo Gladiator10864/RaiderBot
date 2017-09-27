@@ -1,12 +1,13 @@
 
 config\.json
 
-log\.txt
-
-log2\.txt
-
 *.txt
 
 *.log
 
 RaiderData/
+
+LoggerData/
+
+node_modules/
+\.eslintrc\.json
